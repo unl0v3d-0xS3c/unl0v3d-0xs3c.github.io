@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
+title: 0xS3c
+description: The unloved by the world.
+show_downloads: false
